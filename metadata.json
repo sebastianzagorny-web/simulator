@@ -1,0 +1,6 @@
+{
+  "name": "Global Sovereign: Ruler & President Simulator",
+  "description": "Comprehensive political, economic, dynastic, and military simulation game across historical and modern eras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
